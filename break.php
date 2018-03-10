@@ -7,7 +7,7 @@
 	if ($i == 5) {
 	    
 	    echo "break !";
-	    break;
+	    break; // break out of loop
 	}
 }
 
