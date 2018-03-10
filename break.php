@@ -5,7 +5,8 @@
         echo $i . "<br>";
 
 	if ($i == 5) {
-
+	    
+	    echo "break !";
 	    break;
 	}
 }
