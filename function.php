@@ -3,7 +3,7 @@
     // this function says Hello World
     function Print_Hello() {
 
-        echo "Hello World";
+        echo "<h1> <center> Hello World </h1>";
     }
 
     Print_Hello();
